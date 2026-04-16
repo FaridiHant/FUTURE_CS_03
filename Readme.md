@@ -20,7 +20,7 @@ The assessment was strictly non-intrusive, focusing on identifying common API se
 
 ---
 
-## Tools
+## Tools & Api used
 
 - **Browser (Chrome)** —> Accessed and tested all API endpoints directly
 - **Browser DevTools** —> Inspected API responses and headers
@@ -30,9 +30,7 @@ The assessment was strictly non-intrusive, focusing on identifying common API se
 
 ## Key Findings
 
-- No authentication required to access user data —> **High Risk**
-- Sensitive personal data exposed in API responses —> **High Risk**
-- Any user's data accessible by guessing ID number —> **High Risk**
+- No authentication required to access user data —> **High Risk****
 - No rate limiting on API requests —> **Medium Risk**
 - Bulk data returned instead of filtered results —> **Medium Risk**
 
@@ -41,9 +39,9 @@ The assessment was strictly non-intrusive, focusing on identifying common API se
 ## Risk Summary
 
 - **Overall Risk:** High
-- **High Risk Issues:** 3
-- **Medium Risk Issues:** 2
-- **Total Findings:** 5
+- **High Risk Issues:** 2
+- **Medium Risk Issues:** 1
+- **Total Findings:** 3
 
 ---
 
