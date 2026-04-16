@@ -71,7 +71,7 @@ The assessment was strictly non-intrusive, focusing on identifying common API se
 
 ---
 
-**LinkedIn:** https://tz.linkedin.com/in/faridi-hant-60b06b344
+**LinkedIn:** https://tz.linkedin.com/in/faridi-hant-60b06b344   
 **Organization:** https://www.linkedin.com/company/future-interns/
 
 ---
